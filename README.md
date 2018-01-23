@@ -1,4 +1,4 @@
-# fashion-nmist-cnn
+# fashion-mnist-cnn
 A convolutional neural network solution to a Computer Vision problem of classifying 10 different fashion garments.
 
 Dataset sourced from UCI Machine Learning Repository
