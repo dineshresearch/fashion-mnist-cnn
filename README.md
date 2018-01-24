@@ -7,4 +7,4 @@ Network created using 60000 training examples, and is tested on 10000 examples. 
 
 Program completely coded using Python, as well as Tensorflow/Keras and Skikitlearn.
 
-Due to the constraints of Github, two files (fashion-mnist_train and train-images-idx3-ubyte) could not be uploaded - they can be found at https://www.kaggle.com/zalando-research/fashionmnist/data and https://www.kaggle.com/zalando-research/fashionmnist/data respectively.
+Due to the constraints of Github, two files (fashion-mnist_train and train-images-idx3-ubyte) could not be uploaded - they can be found at https://www.kaggle.com/zalando-research/fashionmnist/data and https://www.kaggle.com/zalando-research/fashionmnist/data respectively. Once downloaded, they should be placed in the same directory as the rest of the files.
